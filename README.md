@@ -58,7 +58,7 @@ mnth_9          0.123609
 
 The Top 3 contributors are 
         
-        1. Temperature (0.539) ( Positive Impact ]
+        1. Temperature (0.539) [ Positive Impact ]
         
         2. Weathersit_3( Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds)  (-0.298) [ Negative Impact ]
         
