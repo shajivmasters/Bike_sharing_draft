@@ -29,14 +29,12 @@ Based on various meteorological surveys and people's styles, the service provide
 
 
 ## Technologies Used
-
-Pandas Version : 1.3.4
-Numpy  Version : 1.20.3
-Seaborn Version : 0.11.2
-Matplotlib Version : 3.4.3
-StatModel Version : 0.12.2
-
-
+        1. Pandas Version : 1.3.4
+        2. Numpy  Version : 1.20     
+        3. Seaborn Version : 0.11.2
+        4. Matplotlib Version : 3.4.3
+        5. StatModel Version : 0.12.2
+        6. Sklearn Version : 0.24.2
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
